@@ -85,8 +85,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Phenomena # blog_name will be displayed in your blog page
-blog_description: Interesting real-world phenomena
+blog_name: Phenomena Archive # blog_name will be displayed in your blog page
+blog_description: I regularly track and collect media coverage on emerging global innovation phenomena.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
