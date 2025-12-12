@@ -8,12 +8,12 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>210 S Irwin Hall</p>
-    <p>607 E Gregory Dr</p>
-    <p>Urbana, IL 61820, USA</p>
-    <p>📞(217) 819-2934</p>
-    <p>📧tj21@illinois.edu(mailto:tj21@illinois.edu)</p>
+ more_info: >
+  <p>210 S Irwin Hall</p>
+  <p>607 E Gregory Dr</p>
+  <p>Urbana, IL 61820, USA</p>
+  <p>📞 <a href="tel:+12178192934">(217) 819-2934</a></p>
+  <p>📧 <a href="mailto:tj21@illinois.edu">tj21@illinois.edu</a></p>
 ---
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
