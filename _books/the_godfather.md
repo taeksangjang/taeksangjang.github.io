@@ -2,7 +2,7 @@
 layout: book-review
 title:  Embedded autonomy: States and Industrial Transformation
 author: Peter Evans
-cover: assets/img/book_covers/the_godfather.jpg
+cover: assets/img/book_covers/embedded_autonomy.jpg
 olid: OL29192404M # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 9781282738331 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: Information technology (IT) industry, Industrial policy, South Korea, India, Brazil, Zaire
