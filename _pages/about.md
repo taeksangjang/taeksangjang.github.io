@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Illinois at Urbana-Champaign</a>. 📞(217) 819-2528 📧tj21@illinois.edu
+subtitle: <a href='#'>University of Illinois at Urbana-Champaign</a>. 
+📞(217) 819-2528 📧tj21@illinois.edu
 
 profile:
   align: right
