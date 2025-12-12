@@ -13,7 +13,7 @@ profile:
     <p>607 E Gregory Dr</p>
     <p>Urbana, IL 61820, USA</p>
     <p>📞(217) 819-2934</p>
-    <p>📧email: "tj21@illinois.edu"</p>
+    <p>📧tj21@illinois.edu(mailto:tj21@illinois.edu)</p>
 ---
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
