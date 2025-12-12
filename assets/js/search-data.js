@@ -414,8 +414,8 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-",
-          title: '',
+      },{id: "books-embedded-autonomy-states-and-industrial-transformation",
+          title: 'Embedded autonomy: States and Industrial Transformation',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
