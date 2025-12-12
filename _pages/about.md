@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Gies College of Business, the University of Illinois at Urbana-Champaign</a> 
+subtitle: <a href='#'>Gies College of Business, the University of Illinois at Urbana-Champaign</a>
 
 profile:
   align: right
@@ -14,7 +14,7 @@ profile:
     <p>Urbana, IL 61820, USA</p>
     <p><i class="fas fa-phone"></i> <a href="tel:+12178192934">(217) 819-2934</a></p>
     <p><i class="fas fa-envelope"></i> <a href="mailto:tj21@illinois.edu">tj21@illinois.edu</a></p>
-    <p><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/taeksang-jang-27847919a" target="_blank" rel="noopener">LinkedIn</a</p>
+    <p><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/taeksang-jang-27847919a" target="_blank" rel="noopener">LinkedIn</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
