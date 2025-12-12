@@ -11,7 +11,7 @@ categories:
   - South Korea
   - India
   - Brazil
-tags: 
+tags: []
 released: 1995
 stars: 5
 status: Finished
