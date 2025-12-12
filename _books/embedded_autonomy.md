@@ -1,6 +1,6 @@
 ---
 layout: book-review
-title:  "Embedded autonomy: States and Industrial Transformation"
+title:  "Embedded Autonomy: States and Industrial Transformation"
 author: Peter Evans
 cover: assets/img/book_covers/embedded_autonomy.jpg
 olid: OL29192404M # use Open Library ID to fetch cover (if no `cover` is provided)
@@ -11,7 +11,7 @@ categories:
   - South Korea
   - India
   - Brazil
-tags: []
+tags: industrial policy
 released: 1995
 stars: 5
 status: Finished
