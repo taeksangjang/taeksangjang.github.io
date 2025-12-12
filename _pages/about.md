@@ -1,5 +1,4 @@
 ---
-
 layout: about
 title: about
 permalink: /
@@ -10,25 +9,19 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
  more_info: >
-  <p>210 S Irwin Hall</p>
-  <p>607 E Gregory Dr</p>
-  <p>Urbana, IL 61820, USA</p>
-  <p>📞 <a href="tel:+12178192934">(217) 819-2934</a></p>
-  <p>📧 <a href="mailto:tj21@illinois.edu">tj21@illinois.edu</a></p>
+   <p>210 S Irwin Hall</p>
+   <p>607 E Gregory Dr</p>
+   <p>Urbana, IL 61820, USA</p>
+   <p>📞 <a href="tel:+12178192934">(217) 819-2934</a></p>
+   <p>📧 <a href="mailto:tj21@illinois.edu">tj21@illinois.edu</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
-
-announcements:
-  enabled: false # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
-  
 ---
 
 Welcome! I am a PhD student in International Business and Strategy at Gies College of Business, the University of Illinois at Urbana-Champaign (UIUC).
