@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Illinois at Urbana-Champaign</a>. 
+subtitle: <a href='#'>Gies College of Business, the University of Illinois at Urbana-Champaign</a> 
 
 profile:
   align: right
