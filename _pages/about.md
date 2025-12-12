@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>IB & Strategy, Gies College of Business, the University of Illinois at Urbana-Champaign</a>. 📞(217) 819-2528 📧tj21@illinois.edu
 
 profile:
   align: right
