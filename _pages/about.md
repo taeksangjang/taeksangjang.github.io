@@ -2,7 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Gies College of Business, the University of Illinois at Urbana-Champaign</a>
+subtitle: >
+  <a href="https://giesbusiness.illinois.edu/profile/taeksang-jang"
+     target="_blank" rel="noopener">
+    <img src="/assets/img/uiuc.svg"
+         alt="UIUC"
+         style="height:1.1em; width:auto; vertical-align:middle; margin-right:0.45em;">
+  </a>
+  <a href="https://giesbusiness.illinois.edu/profile/taeksang-jang"
+     target="_blank" rel="noopener">
+    Gies College of Business, the University of Illinois at Urbana-Champaign
+  </a>
 
 profile:
   align: right
