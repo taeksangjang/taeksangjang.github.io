@@ -420,13 +420,6 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/embedded_autonomy/";
             },},{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://giesbusiness.illinois.edu/profile/taeksang-jang/", "_blank");
-        },
-      },{
         id: 'social-cv',
         title: 'CV',
         section: 'Socials',
