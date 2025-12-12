@@ -3,7 +3,6 @@ layout: about
 title: about
 permalink: /
 subtitle: <a href='#'>University of Illinois at Urbana-Champaign</a>. 
-📞(217) 819-2528 📧tj21@illinois.edu
 
 profile:
   align: right
@@ -12,7 +11,8 @@ profile:
   more_info: >
     <p>210 S Irwin Hall</p>
     <p>607 E Gregory Dr</p>
-    <p>Urbana, IL 61820, United States</p>
+    <p>Urbana, IL 61820, USA</p>
+    <p>📞(217) 819-2528 📧tj21@illinois.edu</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
