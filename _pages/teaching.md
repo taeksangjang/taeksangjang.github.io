@@ -7,6 +7,8 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Teaching Interests: Global Supply Chain Management, Multinational Management, Strategic Management
 
-Organize your courses by years, topics, or universities, however you like!
+BADM 338: Global Supply Chain Management (Fall 2025)
+
+Due to intense global competition, companies increasingly realize the importance of global supply chain management, as they have become more involved with their cross-border suppliers and customers in order to meet customer expectations in a global marketplace. This course in 'global supply chain management' focuses on specialized topics arising in the context of procurement, operations, transportation, finance, and governance of relationships of multiple international buyer and supplier organizations.
