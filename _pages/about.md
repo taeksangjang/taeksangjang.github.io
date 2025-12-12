@@ -24,6 +24,6 @@ latest_posts:
 
 Welcome! I am a PhD student in International Business and Strategy at Gies College of Business, the University of Illinois at Urbana-Champaign (UIUC).
 
-My research interests include global strategy, global innovation, and political strategy, with a particular emphasis on how multinational corporations (MNCs) create, transfer, and protect innovation across borders. Also, I enjoy leveraging quasi-experimental empirical designs, such as difference-in-differences (DiD), to study how MNCs respond to home- and host-country institutional and policy changes.
+My research interests include global strategy, global innovation, and political strategy, with a particular emphasis on how multinational corporations (MNCs) create, transfer, and protect innovation across borders. Methodologically, I enjoy leveraging quasi-experimental empirical designs, such as difference-in-differences (DiD), to study how MNCs respond to home- and host-country institutional and policy changes.
 
 I eanred my B.A. in Management Information Systems from Hankuk University of Foreign Studies (HUFS) in South Korea, and my M.Sc. in International Business & Strategy in Korea University in South Korea.
