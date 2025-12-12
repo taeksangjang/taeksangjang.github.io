@@ -7,7 +7,7 @@ subtitle: <a href='#'>University of Illinois at Urbana-Champaign</a>. 📞(217) 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>210 S Irwin Hall</p>
     <p>607 E Gregory Dr</p>
