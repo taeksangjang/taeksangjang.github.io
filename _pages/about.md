@@ -17,7 +17,7 @@ profile:
     <p><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/taeksang-jang-27847919a" target="_blank" rel="noopener">LinkedIn</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 
 latest_posts:
   enabled: false
