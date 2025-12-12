@@ -415,10 +415,10 @@ ninja.data = [{
           
         },
       },{id: "books-embedded-autonomy-states-and-industrial-transformation",
-          title: 'Embedded autonomy: States and Industrial Transformation',
+          title: 'Embedded Autonomy: States and Industrial Transformation',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/embedded_autonomy/";
             },},{
         id: 'social-cv',
         title: 'CV',
