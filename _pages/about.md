@@ -5,7 +5,7 @@ permalink: /
 subtitle: >
   <a href="https://giesbusiness.illinois.edu/profile/taeksang-jang"
      target="_blank" rel="noopener">
-    <img src="/assets/img/uiuc.svg"
+    <img src="/assets/img/uiuc.png"
          alt="UIUC"
          style="height:1.1em; width:auto; vertical-align:middle; margin-right:0.45em;">
   </a>
