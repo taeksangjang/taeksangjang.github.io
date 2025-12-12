@@ -12,7 +12,8 @@ profile:
     <p>210 S Irwin Hall</p>
     <p>607 E Gregory Dr</p>
     <p>Urbana, IL 61820, USA</p>
-    <p>📞(217) 819-2528 📧tj21@illinois.edu</p>
+    <p>📞(217) 819-2528</p>
+    <p>📧tj21@illinois.edu</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
