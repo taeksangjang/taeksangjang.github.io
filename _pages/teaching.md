@@ -2,12 +2,10 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: My teaching interests include Global Supply Chain Management, Multinational Management, and Strategic Management
 nav: true
 nav_order: 4
 ---
-
-Teaching Interests: Global Supply Chain Management, Multinational Management, Strategic Management
 
 <a href='#'>BADM 338: Global Supply Chain Management (Fall 2025) </a>
 
