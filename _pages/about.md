@@ -19,9 +19,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>210 S Irwin Hall</p>
-    <p>607 E Gregory Dr</p>
-    <p>Urbana, IL 61820, USA</p>
     <p><i class="fas fa-phone"></i> <a href="tel:+12178192934">(217) 819-2934</a></p>
     <p><i class="fas fa-envelope"></i> <a href="mailto:tj21@illinois.edu">tj21@illinois.edu</a></p>
     <p><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/taeksang-jang-27847919a" target="_blank" rel="noopener">LinkedIn</a></p>
@@ -30,7 +27,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 latest_posts:
-  enabled: false
+  enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
