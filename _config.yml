@@ -85,8 +85,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Phenomena Archive # blog_name will be displayed in your blog page
-blog_description: I regularly track and collect media coverage on emerging global innovation phenomena.
+blog_name: Taeksang's Archive # blog_name will be displayed in your blog page
+blog_description: A curated collection of ideas, discussions, talks, and emerging trends that inform how I think about global strategy, innovation, policy shocks, and organizations.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -255,7 +255,7 @@ jekyll-archives:
   books:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
-display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
+display_tags: ["innovation", "global innovation", "policy", "international business", "econometrics"] # these tags will be displayed on the front page of your blog
 display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
