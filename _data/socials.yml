@@ -13,7 +13,7 @@
 # logo: /assets/img/uiuc.png # can be png, svg, jpg
 # title: UIUC
 # url: https://giesbusiness.illinois.edu/profile/taeksang-jang/
-cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
+cv_pdf: /assets/pdf/mycv.pdf # path to your CV PDF file
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
 email: tj21@illinois.edu # your email address
