@@ -15,6 +15,6 @@ nav_order: 3
 
 <div class="publications">
 
-{% bibliography %}
+{% bibliography -f papers -q @*[selected=true]* %
 
 </div>
