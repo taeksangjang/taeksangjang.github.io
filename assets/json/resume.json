@@ -209,21 +209,14 @@
   ],
 
   "publications": [
-    {
-      "name": "What do acquirers want? The relationship between target’s ESG transparency and M&A Deal Completion",
-      "publisher": "Academy of Management Annual Conference, Boston, USA",
-      "releaseDate": "2023-08-01",
-      "url": "",
-      "summary": "Conference presentation."
-    },
-    {
-      "name": "How ESG transparency affects mergers and acquisitions",
-      "publisher": "Strategic Management Society Annual Conference, London, UK",
-      "releaseDate": "2022-09-01",
-      "url": "",
-      "summary": "Conference presentation."
-    }
-  ],
+  {
+    "name": "How ESG Transparency Affects Mergers and Acquisitions",
+    "publisher": "Academy of Management Annual Conference (Boston, USA); Strategic Management Society Annual Conference (London, UK)",
+    "releaseDate": "2023-08-01",
+    "url": "https://doi.org/10.5465/AMPROC.2023.10580abstract",
+    "summary": "Presented at the Strategic Management Society Annual Conference (2022) and the Academy of Management Annual Conference (2023)."
+  }
+],
 
   "skills": [
     {
