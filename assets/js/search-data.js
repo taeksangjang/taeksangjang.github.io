@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-research",
           title: "research",
-          description: "“Curiosity is the engine of achievement.— Ken Robinson",
+          description: "“Curiosity is the engine of achievement.— Ken Robinson&quot;",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
