@@ -144,6 +144,13 @@
 
   "awards": [
     {
+      "title": "PhD Spring Award",
+      "date": "2024-05-01",
+      "awarder": "University of Illinois at Urbana-Champaign",
+      "url": "",
+      "summary": ""
+    },
+    {
       "title": "Caterpillar Fellowship",
       "date": "2023-09-01",
       "awarder": "University of Illinois at Urbana-Champaign",
@@ -160,13 +167,6 @@
     {
       "title": "Block Grant",
       "date": "2023-09-01",
-      "awarder": "University of Illinois at Urbana-Champaign",
-      "url": "",
-      "summary": ""
-    },
-    {
-      "title": "PhD Spring Award",
-      "date": "2024-05-01",
       "awarder": "University of Illinois at Urbana-Champaign",
       "url": "",
       "summary": ""
@@ -225,20 +225,20 @@
     {
       "name": "Programming & Data Analysis",
       "level": "",
-      "icon": "",
+      "icon": "fa-solid fa-hashtag",
       "keywords": ["Stata", "R", "Python", "Git", "LaTeX"]
     }
   ],
 
   "languages": [
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Korean",
+      "fluency": "Native",
       "icon": ""
     },
     {
-      "language": "Korean",
-      "fluency": "Native",
+      "language": "English",
+      "fluency": "Fluent",
       "icon": ""
     }
   ],
