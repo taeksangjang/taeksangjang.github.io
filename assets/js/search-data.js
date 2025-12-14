@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-research",
+          title: "research",
+          description: "“Curiosity is the engine of achievement.— Ken Robinson",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/research/";
+          },
         },{id: "nav-teaching",
           title: "teaching",
           description: "My teaching interests include Global Supply Chain Management, Multinational Management, and Strategic Management",
