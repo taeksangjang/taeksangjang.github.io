@@ -28,10 +28,7 @@
       "startDate": "2023-08-01",
       "endDate": "",
       "score": "",
-      "courses": [
-        "Major: International Business",
-        "Minor: Strategic Management & Entrepreneurship"
-      ]
+      "courses": ["Major: International Business", "Minor: Strategic Management & Entrepreneurship"]
     },
     {
       "institution": "Korea University",
@@ -47,7 +44,7 @@
     },
     {
       "institution": "Hankuk University of Foreign Studies",
-      "logo":"hufs.png",
+      "logo": "hufs.png",
       "location": "South Korea",
       "url": "",
       "area": "Business Administration",
@@ -144,13 +141,6 @@
 
   "awards": [
     {
-      "title": "PhD Spring Award",
-      "date": "2024-05-01",
-      "awarder": "University of Illinois at Urbana-Champaign",
-      "url": "",
-      "summary": ""
-    },
-    {
       "title": "Caterpillar Fellowship",
       "date": "2023-09-01",
       "awarder": "University of Illinois at Urbana-Champaign",
@@ -167,6 +157,13 @@
     {
       "title": "Block Grant",
       "date": "2023-09-01",
+      "awarder": "University of Illinois at Urbana-Champaign",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "PhD Spring Award",
+      "date": "2024-05-01",
       "awarder": "University of Illinois at Urbana-Champaign",
       "url": "",
       "summary": ""
@@ -212,34 +209,33 @@
   ],
 
   "publications": [
-  {
-    "name": "What do Acquirers Want? The Relationship between Target’s ESG Transparency and M&A Deal Completion",
-    "authors": ["Taeksang Jang", "Jon Jungbien Moon", "Jiyoung Shin"],
-    "publisher": "Academy of Management Proceedings",
-    "releaseDate": "2023-08-01",
-    "url": "https://doi.org/10.5465/AMPROC.2023.10580abstract",
-    "summary": "Presented 2023 Academy of Management Annual Conference (Boston, USA) and 2022 Strategic Management Society Annual Conference (London, UK)"
-  }
-],
+    {
+      "name": "How ESG Transparency Affects Mergers and Acquisitions",
+      "publisher": "Academy of Management Annual Conference (Boston, USA); Strategic Management Society Annual Conference (London, UK)",
+      "releaseDate": "2023-08-01",
+      "url": "https://doi.org/10.5465/AMPROC.2023.10580abstract",
+      "summary": "Presented at the Strategic Management Society Annual Conference (2022) and the Academy of Management Annual Conference (2023)."
+    }
+  ],
 
   "skills": [
     {
       "name": "Programming & Data Analysis",
       "level": "",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "",
       "keywords": ["Stata", "R", "Python", "Git", "LaTeX"]
     }
   ],
 
   "languages": [
     {
-      "language": "Korean",
-      "fluency": "Native",
+      "language": "English",
+      "fluency": "Fluent",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Korean",
+      "fluency": "Native",
       "icon": ""
     }
   ],
