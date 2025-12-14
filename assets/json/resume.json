@@ -20,6 +20,7 @@
   "education": [
     {
       "institution": "University of Illinois at Urbana-Champaign",
+      "logo": "uiuc.png",
       "location": "United States",
       "url": "",
       "area": "Business Administration",
@@ -34,6 +35,7 @@
     },
     {
       "institution": "Korea University",
+      "logo": "korea.png",
       "location": "South Korea",
       "url": "",
       "area": "Business Administration",
@@ -45,6 +47,7 @@
     },
     {
       "institution": "Hankuk University of Foreign Studies",
+      "logo":"hufs.png",
       "location": "South Korea",
       "url": "",
       "area": "Business Administration",
@@ -142,28 +145,28 @@
   "awards": [
     {
       "title": "Caterpillar Fellowship",
-      "date": "2023-01-01",
+      "date": "2023-09-01",
       "awarder": "University of Illinois at Urbana-Champaign",
       "url": "",
       "summary": "Fellowship support for the 2023–2024 academic year."
     },
     {
       "title": "Technology Award",
-      "date": "2023-01-01",
+      "date": "2023-09-01",
       "awarder": "University of Illinois at Urbana-Champaign",
       "url": "",
       "summary": "For computer or software purchase related to doctoral studies"
     },
     {
       "title": "Block Grant",
-      "date": "2023-01-01",
+      "date": "2023-09-01",
       "awarder": "University of Illinois at Urbana-Champaign",
       "url": "",
       "summary": ""
     },
     {
       "title": "PhD Spring Award",
-      "date": "2024-01-01",
+      "date": "2024-05-01",
       "awarder": "University of Illinois at Urbana-Champaign",
       "url": "",
       "summary": ""
@@ -173,35 +176,35 @@
   "certificates": [
     {
       "name": "Qualitative Comparative Analysis (QCA)",
-      "date": "2023-05-01",
+      "date": "2023",
       "issuer": "Coursera",
       "url": "",
       "icon": "fa-solid fa-certificate"
     },
     {
       "name": "Data Analysis with R Programming",
-      "date": "2021-09-01",
+      "date": "2021",
       "issuer": "Coursera",
       "url": "",
       "icon": "fa-solid fa-certificate"
     },
     {
       "name": "International Trade Specialist",
-      "date": "2018-02-01",
+      "date": "2018",
       "issuer": "Korea International Trade Association (KITA)",
       "url": "",
       "icon": "fa-solid fa-certificate"
     },
     {
       "name": "International Business I",
-      "date": "2020-03-01",
+      "date": "2020",
       "issuer": "Coursera",
       "url": "",
       "icon": "fa-solid fa-certificate"
     },
     {
       "name": "English for International Trade",
-      "date": "2018-06-01",
+      "date": "2018",
       "issuer": "Korea Chamber of Commerce and Industry",
       "url": "",
       "icon": "fa-solid fa-certificate"
