@@ -98,7 +98,7 @@
       "highlights": []
     },
     {
-      "organization": "Academy of Management (AoM) Annual Meeting",
+      "organization": "Academy of Management (AoM) Annual Meeting in Boston",
       "location": "United States",
       "position": "Reviewer (IM & STR Divisions)",
       "url": "",
@@ -118,7 +118,7 @@
       "highlights": []
     },
     {
-      "organization": "Pyeongchang Organizing Committee for the 2018 Olympic & Paralympic Winter Games",
+      "organization": "Pyeongchang 2018 Paralympic Winter Games",
       "location": "South Korea",
       "position": "Volunteer, Olympic Village Welcome Operations",
       "url": "",
@@ -141,6 +141,12 @@
 
   "awards": [
     {
+      "title": "PhD Spring Award",
+      "date": "2024-05-01",
+      "awarder": "University of Illinois at Urbana-Champaign",
+      "url": "",
+      "summary": ""
+    },{
       "title": "Caterpillar Fellowship",
       "date": "2023-09-01",
       "awarder": "University of Illinois at Urbana-Champaign",
@@ -157,13 +163,6 @@
     {
       "title": "Block Grant",
       "date": "2023-09-01",
-      "awarder": "University of Illinois at Urbana-Champaign",
-      "url": "",
-      "summary": ""
-    },
-    {
-      "title": "PhD Spring Award",
-      "date": "2024-05-01",
       "awarder": "University of Illinois at Urbana-Champaign",
       "url": "",
       "summary": ""
