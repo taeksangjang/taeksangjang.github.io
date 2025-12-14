@@ -38,7 +38,17 @@
           <h6 class="title font-weight-bold ml-1 ml-md-4">
             <a href="{{ content.url }}">{{ content.studyType }}</a>
           </h6>
-          <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">{{ content.institution }}</h6>
+          <h6 class="ml-1 ml-md-4 d-flex align-items-center" style="font-size: 0.95rem; gap: 10px;">
+            {% if content.logo and content.logo != '' %}
+              <img
+                src="{{ content.logo | prepend: '/assets/img/' | relative_url }}"
+                alt="{{ content.institution }} logo"
+                style="height: 22px; width: auto;"
+                loading="lazy"
+              />
+            {% endif %}
+            <span>{{ content.institution }}</span>
+          </h6>
           <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic">{{ content.area }}</h6>
           <ul class="items">
             {% for item in content.courses %}
