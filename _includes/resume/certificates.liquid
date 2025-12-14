@@ -3,32 +3,32 @@
 
   <div class="row">
     {% for content in certificates %}
-      <div class="col-12 col-md-6 mb-3">
+      <div class="col-12 col-md-6 mb-2">  <!-- mb-3 → mb-2 -->
         <div class="list-group">
-          <table class="table-cv list-group-table">
+          <table class="table-cv list-group-table" style="margin-bottom: 0.3rem;">
             <tbody>
               <tr>
                 {% if content.icon %}
-                  <td class="list-group-category-icon">
+                  <td class="list-group-category-icon" style="padding-top: 0.25rem; padding-bottom: 0.15rem;">
                     <i class="{{ content.icon }}"></i>
                   </td>
                 {% else %}
                   <td class="list-group-category-icon"></td>
                 {% endif %}
 
-                <td class="list-group-category">
+                <td class="list-group-category" style="padding-top: 0.25rem; padding-bottom: 0.15rem; line-height: 1.15;">
                   <a href="{{ content.url | default: '#' }}">{{ content.name }}</a>
                 </td>
               </tr>
 
               <tr>
                 <td></td>
-                <td class="list-group-name">
+                <td class="list-group-name" style="padding-top: 0.1rem; padding-bottom: 0.2rem; line-height: 1.1;">
                   <div>
                     <b>{{ content.issuer }}</b>
                   </div>
                   {% if content.date and content.date != '' %}
-                    <div class="text-muted" style="font-size: 0.85rem; margin-top: 2px;">
+                    <div class="text-muted" style="font-size: 0.8rem; margin-top: 1px;">
                       {{ content.date }}
                     </div>
                   {% endif %}
