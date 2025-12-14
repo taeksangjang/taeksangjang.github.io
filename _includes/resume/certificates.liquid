@@ -23,14 +23,16 @@
 
               <tr>
                 <td></td>
-               <td class="list-group-name">
-                <div><b>{{ content.issuer }}</b></div>
-                {% if content.date and content.date != '' %}
-                  <div class="text-muted" style="font-size: 0.85rem; margin-top: 2px;">
-                    {{ content.date }}
+                <td class="list-group-name">
+                  <div>
+                    <b>{{ content.issuer }}</b>
                   </div>
-                {% endif %}
-              </td>
+                  {% if content.date and content.date != '' %}
+                    <div class="text-muted" style="font-size: 0.85rem; margin-top: 2px;">
+                      {{ content.date }}
+                    </div>
+                  {% endif %}
+                </td>
               </tr>
             </tbody>
           </table>
