@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Taeksang Jang",
-    "label": "Ph.D. Student in Business Administration (International Business)",
+    "label": "Ph.D. Student in Business Administration (International Business & Strategy)",
     "image": "",
     "email": "tj21@illinois.edu",
-    "phone": "(217) 819-2934",
+    "phone": "",
     "url": "",
-    "summary": "Ph.D. student researching global strategy, global innovation, and nonmarket strategy",
+    "summary": "",
     "location": {
       "address": "210 S Irwin Hall, 607 E Gregory Dr",
       "postalCode": "61820",
@@ -23,150 +23,128 @@
       "logo": "uiuc.png",
       "location": "United States",
       "url": "",
-      "area": "Business Administration",
+      "area": "Business Administration (International Business & Strategy)",
       "studyType": "Ph.D.",
       "startDate": "2023-08-01",
       "endDate": "",
       "score": "",
-      "courses": ["Major: International Business", "Minor: Strategic Management & Entrepreneurship"]
+      "courses": []
     },
     {
       "institution": "Korea University",
       "logo": "korea.png",
       "location": "South Korea",
       "url": "",
-      "area": "Business Administration",
+      "area": "Business Administration (International Business & Strategy)",
       "studyType": "M.S.",
       "startDate": "2021-03-01",
       "endDate": "2023-06-01",
-      "score": "GPA: 3.83/4.0",
-      "courses": ["Major: International Business & Strategy"]
+      "score": "",
+      "courses": []
     },
     {
       "institution": "Hankuk University of Foreign Studies",
       "logo": "hufs.png",
       "location": "South Korea",
       "url": "",
-      "area": "Business Administration",
+      "area": "Business Administration (Management Information Systems)",
       "studyType": "B.A.",
       "startDate": "2014-03-01",
       "endDate": "2020-02-01",
-      "score": "GPA: 3.4/4.0",
-      "courses": ["Major: Management Information Systems"]
+      "score": "",
+      "courses": []
     }
   ],
 
-  "work": [
+  "interests": [
     {
-      "name": "European Chamber of Commerce in Korea (ECCK)",
-      "position": "Researcher",
-      "url": "",
-      "startDate": "2020-01-01",
-      "endDate": "2020-04-01",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "name": "Korea Investment Promotion Agency (KOTRA)",
-      "position": "Intern",
-      "url": "",
-      "startDate": "2018-07-01",
-      "endDate": "2018-12-01",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "name": "Republic of Korea Army",
-      "position": "Administrative Specialist",
-      "url": "",
-      "startDate": "2015-03-10",
-      "endDate": "2016-12-09",
-      "summary": "Mandatory military service.",
-      "highlights": []
-    }
-  ],
-
-  "volunteer": [
-    {
-      "organization": "Gies College of Business, University of Illinois at Urbana-Champaign",
-      "location": "United States",
-      "position": "Session Chair, BA Annual Doctoral Workshop",
-      "url": "",
-      "startDate": "2024-03-01",
-      "endDate": "2024-03-01",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "organization": "Academy of Management (AoM) Annual Meeting in Boston",
-      "location": "United States",
-      "position": "Reviewer (IM & STR Divisions)",
-      "url": "",
-      "startDate": "2024-03-01",
-      "endDate": "2024-03-01",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "organization": "Academy of Management (AoM) Annual Meeting in Boston",
-      "location": "United States",
-      "position": "Moderator, Stakeholder and M&A Paper Session (STR Division)",
-      "url": "",
-      "startDate": "2023-08-01",
-      "endDate": "2023-08-01",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "organization": "Pyeongchang 2018 Paralympic Winter Games",
-      "location": "South Korea",
-      "position": "Volunteer, Olympic Village Welcome Operations",
-      "url": "",
-      "startDate": "2018-03-01",
-      "endDate": "2018-03-01",
-      "summary": "Provided administrative support at the Olympic Village Welcome Center during the 2018 Pyeongchang Paralympic Winter Games.",
-      "highlights": []
-    },
-    {
-      "organization": "UN Youth Peace Camp",
-      "location": "South Korea",
-      "position": "Team Coordinator",
-      "url": "",
-      "startDate": "2017-06-01",
-      "endDate": "2017-06-01",
-      "summary": "Participated as a team leader, supporting international participants in a program focused on the history of the Korean War and Korean culture.",
-      "highlights": []
+      "name": "Research Interests",
+      "icon": "",
+      "keywords": ["Global innovation within multinational firms (MNCs)", "Geopolitics", "Global strategy", "Nonmarket strategy"]
     }
   ],
 
   "awards": [
     {
       "title": "PhD Spring Award",
-      "date": "2024-05-01",
-      "awarder": "University of Illinois at Urbana-Champaign",
+      "date": "2025-05-01",
+      "awarder": "Gies College of Business, University of Illinois",
       "url": "",
       "summary": ""
     },
     {
       "title": "Caterpillar Fellowship",
       "date": "2023-09-01",
-      "awarder": "University of Illinois at Urbana-Champaign",
+      "awarder": "Gies College of Business, University of Illinois",
       "url": "",
-      "summary": "Fellowship support for the 2023–2024 academic year."
+      "summary": ""
     },
     {
       "title": "Technology Award",
       "date": "2023-09-01",
-      "awarder": "University of Illinois at Urbana-Champaign",
+      "awarder": "Gies College of Business, University of Illinois",
       "url": "",
-      "summary": "For computer or software purchase related to doctoral studies"
+      "summary": ""
     },
     {
       "title": "Block Grant",
       "date": "2023-09-01",
-      "awarder": "University of Illinois at Urbana-Champaign",
+      "awarder": "Gies College of Business, University of Illinois",
       "url": "",
       "summary": ""
+    }
+  ],
+
+  "volunteer": [
+    {
+      "organization": "Academy of International Business Conference",
+      "location": "",
+      "position": "Conference Reviewer (Global Strategy & Organization Track)",
+      "url": "",
+      "startDate": "2026-01-01",
+      "endDate": "2026-01-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "Academy of Management Annual Conference",
+      "location": "",
+      "position": "Conference Reviewer (International Management Division & Strategy Division)",
+      "url": "",
+      "startDate": "2024-01-01",
+      "endDate": "2024-01-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "Community of Organizational Scholars at Illinois (COSI)",
+      "location": "United States",
+      "position": "Co-Organizer",
+      "url": "",
+      "startDate": "2024-01-01",
+      "endDate": "2024-01-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "Gies Business Administration Doctoral Workshop",
+      "location": "United States",
+      "position": "Session Chair",
+      "url": "",
+      "startDate": "2024-01-01",
+      "endDate": "2024-01-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "Academy of Management Annual Conference",
+      "location": "United States",
+      "position": "Session Chair",
+      "url": "",
+      "startDate": "2023-08-01",
+      "endDate": "2023-08-01",
+      "summary": "",
+      "highlights": []
     }
   ],
 
@@ -208,47 +186,42 @@
     }
   ],
 
-  "invited conference presentations": [
-    {
-      "name": "What do Acquirers Want? The Relationship between Target’s ESG Transparency and M&A Deal Completion",
-      "publisher": "Academy of Management Proceedings",
-      "releaseDate": "2023-08-01",
-      "url": "https://doi.org/10.5465/AMPROC.2023.10580abstract",
-      "summary": "Presented at the 2023 Academy of Management Annual Meeting (Boston, USA); the 2022 Strategic Management Society Annual Conference (London, UK)."
-    }
-  ],
-
   "skills": [
     {
-      "name": "Programming & Data Analysis",
+      "name": "Technical Skills",
       "level": "",
       "icon": "",
       "keywords": ["Stata", "R", "Python", "Git", "LaTeX"]
     }
   ],
 
-  "languages": [
+  "work": [
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "name": "European Chamber of Commerce in Korea",
+      "position": "Researcher",
+      "url": "",
+      "startDate": "2020-01-01",
+      "endDate": "2020-12-01",
+      "summary": "",
+      "highlights": []
     },
     {
-      "language": "Korean",
-      "fluency": "Native",
-      "icon": ""
-    }
-  ],
-
-  "interests": [
+      "name": "Korea Investment Promotion Agency in Vienna, Austria",
+      "position": "Marketing Intern",
+      "url": "",
+      "startDate": "2018-01-01",
+      "endDate": "2018-12-01",
+      "summary": "",
+      "highlights": []
+    },
     {
-      "name": "Research Interests",
-      "icon": "",
-      "keywords": ["Global strategy", "Global innovation", "Nonmarket strategy"]
+      "name": "3rd Logistics Support Command, Republic of Korea Army",
+      "position": "Administrative Specialist",
+      "url": "",
+      "startDate": "2015-03-01",
+      "endDate": "2016-12-01",
+      "summary": "",
+      "highlights": []
     }
-  ],
-
-  "projects": [],
-
-  "references": []
+  ]
 }
