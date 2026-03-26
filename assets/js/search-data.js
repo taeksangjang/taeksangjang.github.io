@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "My teaching interests include Global Supply Chain Management, Multinational Management, and Strategic Management",
+          description: "My teaching interests include Global Supply Chain Management, International Business, and Strategic Management",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
