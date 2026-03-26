@@ -36,26 +36,26 @@ I am prepared to teach a broad range of undergraduate and graduate courses, incl
 
 #### Overall Ratings (1–5 scale)
 
-| Item | Mean |
-|------|------|
+| Item                                                 | Mean     |
+| ---------------------------------------------------- | -------- |
 | Rate the instructor's overall teaching effectiveness | **4.74** |
-| Rate the overall quality of this course | **4.78** |
+| Rate the overall quality of this course              | **4.78** |
 
 <small><em>Items are on a 1–5 scale (1 = exceptionally low; 5 = exceptionally high). Feedback on the Learning Experience Survey (FLEX): survey audience = 30; responses received = 23 (76.67%).</em></small>
 
 #### Learning Experience: Design, Delivery, Inclusivity, and Engagement (1–4 scale)
 
-| Item | Mean |
-|------|------|
-| The instructor clearly described learning objectives for the course | 3.86 |
-| Activities/materials aligned with graded assessments | 3.87 |
-| Gained expected knowledge/skills based on course description | 3.83 |
-| Received useful feedback on performance | 3.61 |
-| Sufficient instructor support to achieve learning goals | 3.83 |
-| Plenty of opportunities to practice/apply knowledge/skills | 3.83 |
-| Assignments graded in alignment with rubrics/descriptions | 3.91 |
-| Knew where to look for course materials when I needed them | 3.96 |
-| Instructor facilitated a welcoming classroom environment | **4.00** |
+| Item                                                                | Mean     |
+| ------------------------------------------------------------------- | -------- |
+| The instructor clearly described learning objectives for the course | 3.86     |
+| Activities/materials aligned with graded assessments                | 3.87     |
+| Gained expected knowledge/skills based on course description        | 3.83     |
+| Received useful feedback on performance                             | 3.61     |
+| Sufficient instructor support to achieve learning goals             | 3.83     |
+| Plenty of opportunities to practice/apply knowledge/skills          | 3.83     |
+| Assignments graded in alignment with rubrics/descriptions           | 3.91     |
+| Knew where to look for course materials when I needed them          | 3.96     |
+| Instructor facilitated a welcoming classroom environment            | **4.00** |
 
 <small><em>Items are on a 1–4 scale (1 = slightly true or not at all true; 2 = somewhat true; 3 = mostly true; 4 = very true). Feedback on the Learning Experience Survey (FLEX): survey audience = 30; responses received = 23 (76.67%).</em></small>
 
