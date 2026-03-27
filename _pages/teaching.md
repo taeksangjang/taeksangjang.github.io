@@ -8,18 +8,16 @@ nav_order: 4
 _styles: >
   .post h2 { font-size: 1.4rem; margin-top: 2.2rem; margin-bottom: 0.6rem; }
   .post h3 { font-size: 1.1rem; margin-top: 1.5rem; margin-bottom: 0.4rem; }
-  .post table { font-size: 0.92rem; }
+  .post p, .post li, .post table, .post blockquote { font-size: 0.95rem; }
   .post table th, .post table td { padding: 0.35rem 0.6rem; }
-  .post blockquote { font-size: 0.93rem; margin: 0.5rem 0; padding: 0.4rem 1rem; }
-  .post blockquote p { margin-bottom: 0; }
-  .eval-note { font-size: 0.8rem; color: #777; margin-top: -0.3rem; }
+  .post blockquote { margin: 0.5rem 0; padding: 0.4rem 1rem; }
+  .post blockquote p { margin-bottom: 0; font-size: 0.95rem; }
+  .eval-note { font-size: 0.82rem; color: #777; margin-top: -0.3rem; }
 ---
 
 ## Teaching Philosophy
 
 My teaching philosophy centers on helping students connect concepts to real-world decisions, argue from evidence, and communicate their reasoning clearly. I pursue three objectives in every course: (1) building on students' prior knowledge to integrate new ideas into a coherent framework, (2) using coordinated practice and targeted feedback to deepen learning, and (3) supporting metacognition so students become self-directed learners.
-
-I am prepared to teach a broad range of undergraduate and graduate courses, including **Global Supply Chain Management**, **International Business**, and **Strategic Management**.
 
 ## Teaching Experience
 
