@@ -32,11 +32,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome! I am a PhD student in International Business and Strategy at Gies College of Business, the University of Illinois at Urbana-Champaign (UIUC).
+Welcome! I am a PhD student in International Business and Strategy at Gies College of Business, the University of Illinois at Urbana-Champaign.
 
 My research examines how multinational corporations adapt their global innovation strategies in response to shifting geopolitical dynamics.
 
-I earned my B.A. in Management Information Systems from Hankuk University of Foreign Studies (HUFS) in South Korea, and my M.Sc. in International Business & Strategy in Korea University in South Korea.
+I earned my B.A. in Management Information Systems from Hankuk University of Foreign Studies in South Korea, and my M.Sc. in International Business & Strategy in Korea University in South Korea.
 
 I play pretty much any sport with a ball, and I swim casually too.
 
