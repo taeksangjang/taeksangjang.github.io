@@ -11,19 +11,17 @@ layout: default
 
   <article>
     {% if page.cv_pdf %}
+      {% if page.cv_pdf contains '://' %}
+        {% assign cv_url = page.cv_pdf %}
+      {% else %}
+        {% assign cv_url = page.cv_pdf | prepend: 'assets/pdf/' | relative_url %}
+      {% endif %}
       <p>
-        <a
-          {% if page.cv_pdf contains '://' %}
-            href="{{ page.cv_pdf }}"
-          {% else %}
-            href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}"
-          {% endif %}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <i class="fa-solid fa-file-pdf"></i> Download CV (PDF)
-        </a>
+        <a href="{{ cv_url }}" target="_blank" rel="noopener noreferrer"> <i class="fa-solid fa-file-pdf"></i> Download CV (PDF) </a>
       </p>
+      <div style="width: 100%; margin-top: 1rem;">
+        <iframe src="{{ cv_url }}" width="100%" height="800px" style="border: none;"></iframe>
+      </div>
     {% endif %}
   </article>
 </div>
