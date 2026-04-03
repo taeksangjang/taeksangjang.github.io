@@ -13,7 +13,7 @@
 - **CV PDF**: `assets/pdf/Jang_Taeksang_CV.pdf` — linked from the CV page
   - Source of truth: `/Users/taeksangjang/Library/CloudStorage/Box-Box/CV/Jang_Taeksang_CV.pdf`
 - **CV page config**: `_pages/cv.md` — sets `cv_pdf: Jang_Taeksang_CV.pdf`
-- **CV layout**: `_layouts/cv.liquid` — simplified to PDF-only (just a download link)
+- **CV layout**: `_layouts/cv.liquid` — simplified to PDF download link + embedded PDF preview
 - **Full CV layout backup**: `_layouts/cv_full.liquid.bak` — previous layout with structured HTML sections from `resume.json` (custom heading mappings, section ordering, etc.). Rename back to `cv.liquid` to restore.
 - **CV page data**: `assets/json/resume.json` — still present but not currently used by the simplified layout
 - **Section order** (for full layout): controlled by `jsonresume` list in `_config.yml`
@@ -26,7 +26,7 @@
 
 ### Social links
 
-- `_data/socials.yml` — includes `cv_pdf: /assets/pdf/Jang_Taeksang_CV.pdf` for the footer/social CV link
+- `_data/socials.yml` — social icons are disabled on the about page (`social: false`); CV icon (`cv_pdf`) is commented out
 
 ### Favicon
 
