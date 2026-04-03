@@ -19,13 +19,24 @@ layout: default
       <p>
         <a href="{{ cv_url }}" target="_blank" rel="noopener noreferrer"> <i class="fa-solid fa-file-pdf"></i> Download CV (PDF) </a>
       </p>
-      <div style="width: 100%; margin-top: 1rem;">
-        <iframe src="{{ cv_url }}" width="100%" style="border: none; height: 800px;"></iframe>
+      <div class="cv-embed" style="width: 100%; margin-top: 1rem; overflow: hidden;">
+        <iframe src="{{ cv_url }}" style="border: none; width: 100%; height: 800px;"></iframe>
       </div>
       <style>
         @media (max-width: 768px) {
-          .post iframe {
-            height: 500px !important;
+          .cv-embed {
+            position: relative;
+            width: 100% !important;
+            padding-top: 130%; /* approximate letter aspect ratio */
+          }
+          .cv-embed iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 200%;
+            height: 200%;
+            transform: scale(0.5);
+            transform-origin: top left;
           }
         }
       </style>
