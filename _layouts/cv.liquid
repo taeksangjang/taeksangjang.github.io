@@ -20,8 +20,15 @@ layout: default
         <a href="{{ cv_url }}" target="_blank" rel="noopener noreferrer"> <i class="fa-solid fa-file-pdf"></i> Download CV (PDF) </a>
       </p>
       <div style="width: 100%; margin-top: 1rem;">
-        <iframe src="{{ cv_url }}" width="100%" height="800px" style="border: none;"></iframe>
+        <iframe src="{{ cv_url }}" width="100%" style="border: none; height: 800px;"></iframe>
       </div>
+      <style>
+        @media (max-width: 768px) {
+          .post iframe {
+            height: 500px !important;
+          }
+        }
+      </style>
     {% endif %}
   </article>
 </div>
