@@ -19,8 +19,13 @@ layout: default
       <p>
         <a href="{{ cv_url }}" target="_blank" rel="noopener noreferrer"> <i class="fa-solid fa-file-pdf"></i> Download CV (PDF) </a>
       </p>
+      {% if page.cv_pdf contains '://' %}
+        {% assign cv_full_url = page.cv_pdf %}
+      {% else %}
+        {% assign cv_full_url = page.cv_pdf | prepend: 'assets/pdf/' | prepend: site.url | append: '/' %}
+      {% endif %}
       <div class="cv-embed" style="margin-top: 1rem; overflow: hidden;">
-        <iframe src="{{ cv_url }}" style="border: none; width: 100%; height: 1100px;"></iframe>
+        <iframe src="https://docs.google.com/gview?url={{ cv_full_url }}&embedded=true" style="border: none; width: 100%; height: 1100px;"></iframe>
       </div>
     {% endif %}
   </article>
