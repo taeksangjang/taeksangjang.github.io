@@ -19,27 +19,32 @@ layout: default
       <p>
         <a href="{{ cv_url }}" target="_blank" rel="noopener noreferrer"> <i class="fa-solid fa-file-pdf"></i> Download CV (PDF) </a>
       </p>
-      <div class="cv-embed" style="width: 100%; margin-top: 1rem; overflow: hidden;">
-        <iframe src="{{ cv_url }}" style="border: none; width: 100%; height: 800px;"></iframe>
+      <div class="cv-embed" style="margin-top: 1rem; overflow: hidden;">
+        <iframe src="{{ cv_url }}" style="border: none; width: 800px; height: 1040px;"></iframe>
       </div>
-      <style>
-        @media (max-width: 768px) {
-          .cv-embed {
-            position: relative;
-            width: 100% !important;
-            padding-top: 130%; /* approximate letter aspect ratio */
+      <script>
+        (function () {
+          var embed = document.querySelector('.cv-embed');
+          var iframe = embed.querySelector('iframe');
+          function scaleCV() {
+            var containerWidth = embed.clientWidth;
+            var iframeWidth = 800;
+            if (containerWidth < iframeWidth) {
+              var scale = containerWidth / iframeWidth;
+              iframe.style.transform = 'scale(' + scale + ')';
+              iframe.style.transformOrigin = 'top left';
+              embed.style.height = 1040 * scale + 'px';
+            } else {
+              iframe.style.transform = 'none';
+              iframe.style.width = '100%';
+              iframe.style.height = '800px';
+              embed.style.height = 'auto';
+            }
           }
-          .cv-embed iframe {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 200%;
-            height: 200%;
-            transform: scale(0.5);
-            transform-origin: top left;
-          }
-        }
-      </style>
+          scaleCV();
+          window.addEventListener('resize', scaleCV);
+        })();
+      </script>
     {% endif %}
   </article>
 </div>
