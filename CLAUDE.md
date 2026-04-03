@@ -19,6 +19,13 @@
 - **Section order** (for full layout): controlled by `jsonresume` list in `_config.yml`
 - **Date templates** (for full layout): `_includes/resume/*.liquid` — modified to show year only
 
+### About
+
+- **About page**: `_pages/about.md` — main landing page (`permalink: /`)
+  - Profile info box shows: email (anti-spam format `tj21[at]illinois[dot]edu`), LinkedIn, GitHub
+  - Phone number removed for privacy
+  - Social icons disabled (`social: false` in front matter)
+
 ### Teaching
 
 - **Teaching page**: `_pages/teaching.md` — includes philosophy, experience, evaluation tables, and student comments
