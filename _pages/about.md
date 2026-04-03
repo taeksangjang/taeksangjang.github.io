@@ -19,7 +19,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><i class="fas fa-envelope"></i> tj21 [at] illinois [dot] edu</p>
+    <p><i class="fas fa-envelope"></i> tj21[at]illinois[dot]edu</p>
     <p><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/taeksang-jang-27847919a" target="_blank" rel="noopener">LinkedIn</a></p>
     <p><i class="fab fa-github"></i> <a href="https://github.com/taeksangjang" target="_blank" rel="noopener">GitHub</a></p>
 
