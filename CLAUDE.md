@@ -35,6 +35,10 @@
 
 - `_data/socials.yml` — social icons are disabled on the about page (`social: false`); CV icon (`cv_pdf`) is commented out
 
+### Footer
+
+- `_config.yml` `footer_text` — cleared; footer shows only "© Copyright [year] Taeksang Jang"
+
 ### Favicon
 
 - `_config.yml` line 18: `icon: favicon.jpeg` (Gies College of Business logo)
