@@ -19,12 +19,12 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><i class="fas fa-phone"></i> <a href="tel:+12178192934">(217) 819-2934</a></p>
-    <p><i class="fas fa-envelope"></i> <a href="mailto:tj21@illinois.edu">tj21@illinois.edu</a></p>
+    <p><i class="fas fa-envelope"></i> tj21 [at] illinois [dot] edu</p>
     <p><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/taeksang-jang-27847919a" target="_blank" rel="noopener">LinkedIn</a></p>
+    <p><i class="fab fa-github"></i> <a href="https://github.com/taeksangjang" target="_blank" rel="noopener">GitHub</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 latest_posts:
   enabled: false
@@ -34,7 +34,7 @@ latest_posts:
 
 Welcome! I am a PhD student in International Business and Strategy at Gies College of Business, the University of Illinois at Urbana-Champaign (UIUC).
 
-My research interests lie at the intersection of geopolitics and global innovation, examining how multinational corporations adapt their innovation strategies in response to shifting geopolitical dynamics.
+My research examines how multinational corporations adapt their global innovation strategies in response to shifting geopolitical dynamics.
 
 I earned my B.A. in Management Information Systems from Hankuk University of Foreign Studies (HUFS) in South Korea, and my M.Sc. in International Business & Strategy in Korea University in South Korea.
 
