@@ -10,9 +10,9 @@
 
 ### CV
 
-- **CV PDF**: `assets/pdf/mycv.pdf` — linked from the CV page
+- **CV PDF**: `assets/pdf/Jang_Taeksang_CV.pdf` — linked from the CV page
   - Source of truth: `/Users/taeksangjang/Library/CloudStorage/Box-Box/CV/Jang_Taeksang_CV.pdf`
-- **CV page config**: `_pages/cv.md` — sets `cv_pdf: mycv.pdf`
+- **CV page config**: `_pages/cv.md` — sets `cv_pdf: Jang_Taeksang_CV.pdf`
 - **CV layout**: `_layouts/cv.liquid` — simplified to PDF-only (just a download link)
 - **Full CV layout backup**: `_layouts/cv_full.liquid.bak` — previous layout with structured HTML sections from `resume.json` (custom heading mappings, section ordering, etc.). Rename back to `cv.liquid` to restore.
 - **CV page data**: `assets/json/resume.json` — still present but not currently used by the simplified layout
@@ -26,7 +26,7 @@
 
 ### Social links
 
-- `_data/socials.yml` — includes `cv_pdf: /assets/pdf/mycv.pdf` for the footer/social CV link
+- `_data/socials.yml` — includes `cv_pdf: /assets/pdf/Jang_Taeksang_CV.pdf` for the footer/social CV link
 
 ### Favicon
 
@@ -42,6 +42,6 @@
 
 ## Workflow Reminders
 
-- After updating CV content, update `mycv.pdf` (and `resume.json` if restoring the full layout)
+- After updating CV content, update `Jang_Taeksang_CV.pdf` (and `resume.json` if restoring the full layout)
 - The `_data/cv.yml` file still has placeholder (Albert Einstein) data — it is not used because `resume.json` exists (the cv.liquid layout checks for `site.data.resume` first)
 - GitHub Pages rebuild takes a minute or two after push; browser cache (Cmd+Shift+R) may need clearing
