@@ -37,7 +37,3 @@ Welcome! I am a PhD student in International Business and Strategy at Gies Colle
 My research examines how multinational corporations adapt their global innovation strategies in response to shifting geopolitical dynamics.
 
 I earned my B.A. in Management Information Systems from Hankuk University of Foreign Studies in South Korea, and my M.Sc. in International Business & Strategy in Korea University in South Korea.
-
-I play pretty much any sport with a ball, and I swim casually too.
-
-I was born and raised in Busan, South Korea.
