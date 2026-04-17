@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: My teaching interests include Global Supply Chain Management, International Business, and Strategic Management
+description:
 nav: true
 nav_order: 4
 _styles: >
@@ -24,7 +24,6 @@ My teaching interests include Global Supply Chain Management, International Busi
 **BADM 338: Global Supply Chain Management** (Undergraduate), University of Illinois at Urbana-Champaign, Fall 2025
 
 - Taught 30 students using a lecture-discussion format combining concept introduction with case-based application
-- Emphasized connecting new concepts to prior material and encouraged broad participation
 
 ## Student Evaluations
 
