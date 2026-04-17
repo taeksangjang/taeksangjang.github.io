@@ -15,13 +15,11 @@ _styles: >
   .eval-note { font-size: 0.82rem; color: #777; margin-top: -0.3rem; }
 ---
 
-## Teaching Philosophy
-
-My teaching philosophy centers on helping students connect concepts to real-world decisions, argue from evidence, and communicate their reasoning clearly. I pursue three objectives in every course: (1) building on students' prior knowledge to integrate new ideas into a coherent framework, (2) using coordinated practice and targeted feedback to deepen learning, and (3) supporting metacognition so students become self-directed learners.
+My teaching interests include Global Supply Chain Management, International Business, and Strategic Management. I am interested in helping students connect concepts to real-world decisions, argue from evidence, and communicate their reasoning clearly. I pursue three objectives in every course: (1) building on students' prior knowledge to integrate new ideas into a coherent framework, (2) using coordinated practice and targeted feedback to deepen learning, and (3) supporting metacognition so students become self-directed learners.
 
 ## Teaching Experience
 
-### Instructor
+### **Instructor**
 
 **BADM 338: Global Supply Chain Management** (Undergraduate), University of Illinois at Urbana-Champaign, Fall 2025
 
