@@ -30,21 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "post-corporate-strategy-masterclass-on-resource-allocation-across-business-and-countries",
+        },{id: "post-corporate-strategy-masterclass-on-resource-allocation-across-business-and-countries",
         
           title: "Corporate Strategy Masterclass on Resource Allocation Across Business and Countries",
         
