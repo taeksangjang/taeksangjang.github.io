@@ -15,7 +15,7 @@
 - Display this committee paragraph directly after the research paragraph: `Committee: Deepak Somaya (co-chair), Joseph Clougherty (co-chair), Fiona Kun Yao, Ishva Minefee.`
 - Remove the education paragraph beginning `I earned my B.A.`
 - Copy `/Users/taeksangjang/Library/CloudStorage/Box-Box/CV/Jang_Taeksang_CV_Aug_2026.pdf` to `assets/pdf/Jang_Taeksang_CV.pdf` without changing the website-facing filename.
-- Require the published CV SHA-256 hash to equal `52c9ca27745b47a220a570576a6c902b9f31bcf39f6a7dc99a27dddface16451`.
+- Require the published CV SHA-256 hash to equal `df58326d877619503e8e6de5c5e32cb88eb3440da7a03b373816f4bb6d4c6397`.
 - Preserve `_pages/cv.md`, `_layouts/cv.liquid`, all routes, layout, styling, navigation, and links.
 - Require a successful Jekyll production build.
 
@@ -127,7 +127,7 @@ Expected: one commit containing only `_pages/about.md`.
 
 **Interfaces:**
 
-- Consumes: `/Users/taeksangjang/Library/CloudStorage/Box-Box/CV/Jang_Taeksang_CV_Aug_2026.pdf`, SHA-256 `52c9ca27745b47a220a570576a6c902b9f31bcf39f6a7dc99a27dddface16451`
+- Consumes: `/Users/taeksangjang/Library/CloudStorage/Box-Box/CV/Jang_Taeksang_CV_Aug_2026.pdf`, SHA-256 `df58326d877619503e8e6de5c5e32cb88eb3440da7a03b373816f4bb6d4c6397`
 - Produces: `assets/pdf/Jang_Taeksang_CV.pdf`, an identical unencrypted two-page letter-size PDF
 
 - [ ] **Step 1: Verify the source CV before copying**
@@ -139,7 +139,7 @@ shasum -a 256 "/Users/taeksangjang/Library/CloudStorage/Box-Box/CV/Jang_Taeksang
 pdfinfo "/Users/taeksangjang/Library/CloudStorage/Box-Box/CV/Jang_Taeksang_CV_Aug_2026.pdf"
 ```
 
-Expected: SHA-256 `52c9ca27745b47a220a570576a6c902b9f31bcf39f6a7dc99a27dddface16451`; 2 pages; letter size; not encrypted; author `Taeksang Jang`.
+Expected: SHA-256 `df58326d877619503e8e6de5c5e32cb88eb3440da7a03b373816f4bb6d4c6397`; 2 pages; letter size; not encrypted; author `Taeksang Jang`.
 
 - [ ] **Step 2: Confirm the current published PDF is different**
 
@@ -170,7 +170,7 @@ shasum -a 256 assets/pdf/Jang_Taeksang_CV.pdf
 pdfinfo assets/pdf/Jang_Taeksang_CV.pdf
 ```
 
-Expected: SHA-256 `52c9ca27745b47a220a570576a6c902b9f31bcf39f6a7dc99a27dddface16451`; 2 pages; letter size; not encrypted; author `Taeksang Jang`.
+Expected: SHA-256 `df58326d877619503e8e6de5c5e32cb88eb3440da7a03b373816f4bb6d4c6397`; 2 pages; letter size; not encrypted; author `Taeksang Jang`.
 
 - [ ] **Step 5: Render both CV pages for visual inspection**
 
@@ -266,7 +266,7 @@ Run:
 shasum -a 256 _site/assets/pdf/Jang_Taeksang_CV.pdf
 ```
 
-Expected: SHA-256 `52c9ca27745b47a220a570576a6c902b9f31bcf39f6a7dc99a27dddface16451`.
+Expected: SHA-256 `df58326d877619503e8e6de5c5e32cb88eb3440da7a03b373816f4bb6d4c6397`.
 
 - [ ] **Step 5: Verify the working tree and commit history**
 
@@ -348,4 +348,4 @@ curl -fsSL https://taeksangjang.github.io/assets/pdf/Jang_Taeksang_CV.pdf -o /Us
 shasum -a 256 /Users/taeksangjang/Documents/Codex/2026-08-26/i-w/work/published-cv.pdf
 ```
 
-Expected: SHA-256 `52c9ca27745b47a220a570576a6c902b9f31bcf39f6a7dc99a27dddface16451`.
+Expected: SHA-256 `df58326d877619503e8e6de5c5e32cb88eb3440da7a03b373816f4bb6d4c6397`.

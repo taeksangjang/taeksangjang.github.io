@@ -25,7 +25,7 @@ Replace the homepage's one-sentence research statement with the approved two-sen
 
 - The homepage displays the approved paragraph exactly, including punctuation and curly apostrophes.
 - The homepage displays the approved committee paragraph directly after the research introduction and no longer displays the education paragraph.
-- The published CV is an unencrypted, two-page letter-size PDF whose SHA-256 hash is `52c9ca27745b47a220a570576a6c902b9f31bcf39f6a7dc99a27dddface16451`.
+- The published CV is an unencrypted, two-page letter-size PDF whose SHA-256 hash is `df58326d877619503e8e6de5c5e32cb88eb3440da7a03b373816f4bb6d4c6397`.
 - The CV remains available at `/assets/pdf/Jang_Taeksang_CV.pdf` and through the existing `/cv/` page.
 - No other visible content or behavior changes.
 - The site builds successfully with the existing Jekyll configuration.
