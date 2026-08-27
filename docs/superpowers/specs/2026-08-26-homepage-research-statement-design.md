@@ -6,7 +6,7 @@ Replace the homepage's one-sentence research statement with the approved two-sen
 
 ## Approved copy
 
-> I study how geopolitical dynamics shape firms’ global innovation strategies. My dissertation examines how geopolitical disruptions affect knowledge flows within multinational corporations and firms’ strategies for scaling innovation globally.
+> My research lies at the intersection of international business and strategy, where I study how geopolitical dynamics shape firms’ global innovation strategies. My dissertation focuses on two strategic responses under geopolitical disruption: knowledge flows within multinational corporations and global scaling.
 
 ## Scope
 
