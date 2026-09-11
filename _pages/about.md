@@ -34,6 +34,6 @@ latest_posts:
 
 Welcome! I am a PhD student in International Business and Strategy at Gies College of Business, the University of Illinois at Urbana-Champaign.
 
-My research lies at the intersection of international business and strategy, where I study how geopolitical dynamics shape firms’ global innovation strategies. My dissertation focuses on two strategic responses under geopolitical disruption: knowledge flows within multinational corporations and global scaling.
+My research lies at the intersection of international business and strategy, where I study how geopolitical dynamics shape firms’ global innovation strategies.
 
 Committee: Deepak Somaya (co-chair), Joseph Clougherty (co-chair), Fiona Kun Yao, Ishva Minefee.
